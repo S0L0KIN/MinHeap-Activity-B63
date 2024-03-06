@@ -1,8 +1,6 @@
 /*
  * Header file for our Priority Queue implementation.
  *
- * You will NOT be submitting this file. Your code will be tested with
- * our own version of this file, so make sure you do not modify it!
  *
  * Author: A. Tafliovich.
  */
